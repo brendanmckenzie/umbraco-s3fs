@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Umbraco.S3fs</id>
+        <version>0.0.1</version>
+        <title>Umbraco.S3fs</title>
+        <authors>Brendan McKenzie</authors>
+        <owners>Brendan McKenzie</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Umbraco S3 FileSystem Provider</description>
+        <releaseNotes>null</releaseNotes>
+        <copyright>Copyright 2014</copyright>
+        <tags>Umbraco.Cms, AWS, S3</tags>
+    </metadata>
+    <files>
+        <file src="App_Data\NuGetBackup\20141103-085916\CopyLogs\UmbracoBinBackup.log" target="App_Data\NuGetBackup\20141103-085916\CopyLogs\UmbracoBinBackup.log" />
+        <file src="bin\Debug\AutoMapper.dll" target="bin\Debug\AutoMapper.dll" />
+        <file src="bin\Debug\AutoMapper.Net4.dll" target="bin\Debug\AutoMapper.Net4.dll" />
+        <file src="bin\Debug\AutoMapper.xml" target="bin\Debug\AutoMapper.xml" />
+        <file src="bin\Debug\AWSSDK.dll" target="bin\Debug\AWSSDK.dll" />
+        <file src="bin\Debug\AWSSDK.pdb" target="bin\Debug\AWSSDK.pdb" />
+        <file src="bin\Debug\businesslogic.dll" target="bin\Debug\businesslogic.dll" />
+        <file src="bin\Debug\businesslogic.xml" target="bin\Debug\businesslogic.xml" />
+        <file src="bin\Debug\ClientDependency.Core.dll" target="bin\Debug\ClientDependency.Core.dll" />
+        <file src="bin\Debug\ClientDependency.Core.Mvc.dll" target="bin\Debug\ClientDependency.Core.Mvc.dll" />
+        <file src="bin\Debug\ClientDependency.Core.Mvc.pdb" target="bin\Debug\ClientDependency.Core.Mvc.pdb" />
+        <file src="bin\Debug\ClientDependency.Core.pdb" target="bin\Debug\ClientDependency.Core.pdb" />
+        <file src="bin\Debug\cms.dll" target="bin\Debug\cms.dll" />
+        <file src="bin\Debug\cms.xml" target="bin\Debug\cms.xml" />
+        <file src="bin\Debug\controls.dll" target="bin\Debug\controls.dll" />
+        <file src="bin\Debug\controls.xml" target="bin\Debug\controls.xml" />
+        <file src="bin\Debug\CookComputing.XmlRpcV2.dll" target="bin\Debug\CookComputing.XmlRpcV2.dll" />
+        <file src="bin\Debug\Examine.dll" target="bin\Debug\Examine.dll" />
+        <file src="bin\Debug\Examine.pdb" target="bin\Debug\Examine.pdb" />
+        <file src="bin\Debug\HtmlAgilityPack.dll" target="bin\Debug\HtmlAgilityPack.dll" />
+        <file src="bin\Debug\HtmlAgilityPack.pdb" target="bin\Debug\HtmlAgilityPack.pdb" />
+        <file src="bin\Debug\HtmlAgilityPack.xml" target="bin\Debug\HtmlAgilityPack.xml" />
+        <file src="bin\Debug\ICSharpCode.SharpZipLib.dll" target="bin\Debug\ICSharpCode.SharpZipLib.dll" />
+        <file src="bin\Debug\ImageProcessor.dll" target="bin\Debug\ImageProcessor.dll" />
+        <file src="bin\Debug\ImageProcessor.Web.dll" target="bin\Debug\ImageProcessor.Web.dll" />
+        <file src="bin\Debug\interfaces.dll" target="bin\Debug\interfaces.dll" />
+        <file src="bin\Debug\interfaces.xml" target="bin\Debug\interfaces.xml" />
+        <file src="bin\Debug\log4net.dll" target="bin\Debug\log4net.dll" />
+        <file src="bin\Debug\Lucene.Net.dll" target="bin\Debug\Lucene.Net.dll" />
+        <file src="bin\Debug\Lucene.Net.xml" target="bin\Debug\Lucene.Net.xml" />
+        <file src="bin\Debug\Microsoft.ApplicationBlocks.Data.dll" target="bin\Debug\Microsoft.ApplicationBlocks.Data.dll" />
+        <file src="bin\Debug\Microsoft.Web.Helpers.dll" target="bin\Debug\Microsoft.Web.Helpers.dll" />
+        <file src="bin\Debug\Microsoft.Web.Infrastructure.dll" target="bin\Debug\Microsoft.Web.Infrastructure.dll" />
+        <file src="bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll" target="bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll" />
+        <file src="bin\Debug\MiniProfiler.dll" target="bin\Debug\MiniProfiler.dll" />
+        <file src="bin\Debug\MiniProfiler.pdb" target="bin\Debug\MiniProfiler.pdb" />
+        <file src="bin\Debug\MiniProfiler.xml" target="bin\Debug\MiniProfiler.xml" />
+        <file src="bin\Debug\MySql.Data.dll" target="bin\Debug\MySql.Data.dll" />
+        <file src="bin\Debug\Newtonsoft.Json.dll" target="bin\Debug\Newtonsoft.Json.dll" />
+        <file src="bin\Debug\Newtonsoft.Json.xml" target="bin\Debug\Newtonsoft.Json.xml" />
+        <file src="bin\Debug\SQLCE4Umbraco.dll" target="bin\Debug\SQLCE4Umbraco.dll" />
+        <file src="bin\Debug\System.Data.SqlServerCe.dll" target="bin\Debug\System.Data.SqlServerCe.dll" />
+        <file src="bin\Debug\System.Data.SqlServerCe.Entity.dll" target="bin\Debug\System.Data.SqlServerCe.Entity.dll" />
+        <file src="bin\Debug\System.Net.Http.Formatting.dll" target="bin\Debug\System.Net.Http.Formatting.dll" />
+        <file src="bin\Debug\System.Net.Http.Formatting.xml" target="bin\Debug\System.Net.Http.Formatting.xml" />
+        <file src="bin\Debug\System.Web.Helpers.dll" target="bin\Debug\System.Web.Helpers.dll" />
+        <file src="bin\Debug\System.Web.Helpers.xml" target="bin\Debug\System.Web.Helpers.xml" />
+        <file src="bin\Debug\System.Web.Http.dll" target="bin\Debug\System.Web.Http.dll" />
+        <file src="bin\Debug\System.Web.Http.WebHost.dll" target="bin\Debug\System.Web.Http.WebHost.dll" />
+        <file src="bin\Debug\System.Web.Http.WebHost.xml" target="bin\Debug\System.Web.Http.WebHost.xml" />
+        <file src="bin\Debug\System.Web.Http.xml" target="bin\Debug\System.Web.Http.xml" />
+        <file src="bin\Debug\System.Web.Mvc.dll" target="bin\Debug\System.Web.Mvc.dll" />
+        <file src="bin\Debug\System.Web.Mvc.xml" target="bin\Debug\System.Web.Mvc.xml" />
+        <file src="bin\Debug\System.Web.Razor.dll" target="bin\Debug\System.Web.Razor.dll" />
+        <file src="bin\Debug\System.Web.Razor.xml" target="bin\Debug\System.Web.Razor.xml" />
+        <file src="bin\Debug\System.Web.WebPages.Deployment.dll" target="bin\Debug\System.Web.WebPages.Deployment.dll" />
+        <file src="bin\Debug\System.Web.WebPages.Deployment.xml" target="bin\Debug\System.Web.WebPages.Deployment.xml" />
+        <file src="bin\Debug\System.Web.WebPages.dll" target="bin\Debug\System.Web.WebPages.dll" />
+        <file src="bin\Debug\System.Web.WebPages.Razor.dll" target="bin\Debug\System.Web.WebPages.Razor.dll" />
+        <file src="bin\Debug\System.Web.WebPages.Razor.xml" target="bin\Debug\System.Web.WebPages.Razor.xml" />
+        <file src="bin\Debug\System.Web.WebPages.xml" target="bin\Debug\System.Web.WebPages.xml" />
+        <file src="bin\Debug\TidyNet.dll" target="bin\Debug\TidyNet.dll" />
+        <file src="bin\Debug\Umbraco.Core.dll" target="bin\Debug\Umbraco.Core.dll" />
+        <file src="bin\Debug\Umbraco.Core.xml" target="bin\Debug\Umbraco.Core.xml" />
+        <file src="bin\Debug\umbraco.DataLayer.dll" target="bin\Debug\umbraco.DataLayer.dll" />
+        <file src="bin\Debug\umbraco.DataLayer.xml" target="bin\Debug\umbraco.DataLayer.xml" />
+        <file src="bin\Debug\umbraco.dll" target="bin\Debug\umbraco.dll" />
+        <file src="bin\Debug\umbraco.editorControls.dll" target="bin\Debug\umbraco.editorControls.dll" />
+        <file src="bin\Debug\umbraco.editorControls.xml" target="bin\Debug\umbraco.editorControls.xml" />
+        <file src="bin\Debug\umbraco.MacroEngines.dll" target="bin\Debug\umbraco.MacroEngines.dll" />
+        <file src="bin\Debug\umbraco.MacroEngines.xml" target="bin\Debug\umbraco.MacroEngines.xml" />
+        <file src="bin\Debug\umbraco.providers.dll" target="bin\Debug\umbraco.providers.dll" />
+        <file src="bin\Debug\umbraco.providers.xml" target="bin\Debug\umbraco.providers.xml" />
+        <file src="bin\Debug\Umbraco.S3fs.dll" target="bin\Debug\Umbraco.S3fs.dll" />
+        <file src="bin\Debug\Umbraco.S3fs.dll.config" target="bin\Debug\Umbraco.S3fs.dll.config" />
+        <file src="bin\Debug\Umbraco.S3fs.pdb" target="bin\Debug\Umbraco.S3fs.pdb" />
+        <file src="bin\Debug\Umbraco.Web.UI.dll" target="bin\Debug\Umbraco.Web.UI.dll" />
+        <file src="bin\Debug\umbraco.xml" target="bin\Debug\umbraco.xml" />
+        <file src="bin\Debug\umbraco.XmlSerializers.dll" target="bin\Debug\umbraco.XmlSerializers.dll" />
+        <file src="bin\Debug\UmbracoExamine.dll" target="bin\Debug\UmbracoExamine.dll" />
+        <file src="bin\Debug\UrlRewritingNet.UrlRewriter.dll" target="bin\Debug\UrlRewritingNet.UrlRewriter.dll" />
+        <file src="bin\Release\Umbraco.S3fs.dll" target="lib\net45\Umbraco.S3fs.dll" />
+        <file src="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" target="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+        <file src="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" target="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+        <file src="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" target="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+        <file src="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" target="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+        <file src="obj\Debug\Umbraco.S3fs.csproj.FileListAbsolute.txt" target="obj\Debug\Umbraco.S3fs.csproj.FileListAbsolute.txt" />
+        <file src="obj\Debug\Umbraco.S3fs.csprojResolveAssemblyReference.cache" target="obj\Debug\Umbraco.S3fs.csprojResolveAssemblyReference.cache" />
+        <file src="obj\Debug\Umbraco.S3fs.dll" target="obj\Debug\Umbraco.S3fs.dll" />
+        <file src="obj\Debug\Umbraco.S3fs.pdb" target="obj\Debug\Umbraco.S3fs.pdb" />
+        <file src="Properties\AssemblyInfo.cs" target="Properties\AssemblyInfo.cs" />
+        <file src="tools\Install.ps1" target="tools\Install.ps1" />
+        <file src="app.config" target="app.config" />
+        <file src="packages.config" target="packages.config" />
+        <file src="S3FileSystem.cs" target="S3FileSystem.cs" />
+        <file src="Umbraco.S3fs.csproj" target="Umbraco.S3fs.csproj" />
+        <file src="Umbraco.S3fs.csproj.user" target="Umbraco.S3fs.csproj.user" />
+    </files>
+</package>
